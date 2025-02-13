@@ -2,13 +2,13 @@
 
 [JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
 
-Desenvolvida pela microsoft em 2012
+Desenvolvida pela microsoft em 2012.
 
-Transpila para JavaScript e adiciona tipagem no desenvolvimento
+Transpila para JavaScript e adiciona tipagem no desenvolvimento.
 
-Desenvolvido por Anders Hejsberg que também fundou o C# e Delphi
+Desenvolvido por Anders Hejsberg que também fundou o C# e Delphi.
 
-Não é uma linguagem de programação, ele é um superset
+Não é uma linguagem de programação, ele é um superset.
 
 ![image.png](./superset.png)
 
@@ -38,9 +38,9 @@ Antes de executar cada aplicação, é necessário uma etapa de build, mandar el
 ## Porque usar TypeScript?
 O JavaScript é bom em times pequenos, porém quando você quer que seu projeto cresça o cenário muda muito.
 
-Quando o time cresce são mais pessoas trabalhando em uma mesma base de código
+Quando o time cresce são mais pessoas trabalhando em uma mesma base de código.
 
-Sem forma rápida de validar o que entra e sai da aplicação
+Sem forma rápida de validar o que entra e sai da aplicação.
 
 Com TypeScript, temos a definição do que precisamos enviar.
 
@@ -48,11 +48,11 @@ Evita a necessidade de ir procurar na API pelos dados.
 
 Detecção de erros em tempo de compilação.
 
-Mais segurança na hora de refatorar o código
+Mais segurança na hora de refatorar o código.
 
-O código fica autoexplicativo
+O código fica autoexplicativo.
 
-Enums não existem em JavaScript
+Enums não existem em JavaScript.
 
 ## Instalando o NodeJS no Linux
 ### **Manage all your runtime versions with one tool!**
