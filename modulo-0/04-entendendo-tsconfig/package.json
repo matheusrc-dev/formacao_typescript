@@ -1,0 +1,16 @@
+{
+  "name": "04-entendendo-tsconfig",
+  "version": "1.0.0",
+  "description": "Não é necessário ficar compilando arquivos direto pela linha de comando Para isso temos o tsconfig É o arquivo de configuração do typescript Pode ter mais de um dentro de um projeto dependendo do objetivo Se cria uma vez e raramente será editado (sensible default) Verificar o [guia de referência do TSConfig](https://www.typescriptlang.org/tsconfig/) [Recomendações para a criação de bases de um TSConfig](https://github.com/tsconfig/bases?tab=readme-ov-file)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "typescript": "5.2.2"
+  }
+}
