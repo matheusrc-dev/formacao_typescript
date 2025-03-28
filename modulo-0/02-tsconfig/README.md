@@ -27,3 +27,5 @@ Porém para facilitar vamos utilizar uma ferramenta fornecida pelo próprio npm 
 
 Por isso iniciamos o repositório com `npx tsc --init`.
 Após isso, é criado um arquivo `tsconfig.json` que é a raiz do nosso projeto, é onde fica toda a configuração do typescript.
+
+Documentação do [tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
